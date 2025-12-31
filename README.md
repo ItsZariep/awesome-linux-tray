@@ -9,7 +9,7 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 ## Rules
 - The programs need to focus their functionality on the tray, with at most a main window
 - The programs have to use fairly modern libraries (e.g., GTK2, Python2, or Qt4 are excluded)
-- The programs need to have a last commit of three years or less
+- The programs need to have a last commit of three years or less (with some exceptions if no other alternatives exists)
 
 # Format
 1. If works on wayland (tested on Waybar), displays: ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
@@ -23,7 +23,7 @@ Full Example:
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/itzselenux/awesome-linux-tray"> Cool tray app</a> : Example entry.
+<a href="https://github.com/itszariep/awesome-linux-tray"> Cool tray app</a> : Example entry.
 
 # List
 
@@ -38,6 +38,11 @@ Full Example:
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
 <a href="https://github.com/ItzSelenux/cbatticon"> Cbatticon Ayatana</a> : Personal cbatticon fork that uses ayatana, awaiting to be merged
+
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
+<a href="https://codeberg.org/ItsZariep/QBattIndicator">QBattIndicator</a> : Monitor battery devices and set actions per percentage - Simple Qt tray battery monitor
 
 ### Performance
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
@@ -83,6 +88,11 @@ Full Example:
 ## Software Indicators
 
 ### Networking
+
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
+<a href="https://codeberg.org/ItsZariep/QBattIndicator">cmst</a> : QT GUI for Connman
 
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
