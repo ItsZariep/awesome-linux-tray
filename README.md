@@ -30,9 +30,6 @@ Full Example:
 ## Hardware Indicators
 
 ### Battery
-![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
-![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/valr/cbatticon"> Cbatticon</a> : A lightweight and fast battery icon that sits in your system tray
 
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
@@ -51,11 +48,13 @@ Full Example:
 <a href="https://github.com/N0rbert/powerprofilesctl-tray"> powerprofilesctl-tray</a> : Tray icon indicator for powerprofilesctl
 
 ### Keyboard
+![X.org support](https://img.shields.io/badge/-F28834?style=flat-square&logo=x.org&logoColor=fff)
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
-![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
-![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/ItzSelenux/gxcapindicator"> GXCapIndicator</a> : Simple and universal Cap/Num lock key indicator in the tray
+![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
+<a href="https://codeberg.org/ItsZariep/QXCapIndicator"> QXCapIndicator</a> : Simple and universal Cap/Num lock key indicator in the tray
 
+![X.org support](https://img.shields.io/badge/-F28834?style=flat-square&logo=x.org&logoColor=fff)
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
 <a href="https://github.com/zen-tools/gxkb"> gxkb</a> : X11 keyboard indicator and switcher
@@ -75,7 +74,12 @@ Full Example:
 ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/apapamarkou/pipewire-controller ">PipeWire Controller</a> : Change sample rate and buffer size when using pipewire
 
-### PCI/USB Devices
+### PCI/USB/Bluetooth Devices
+
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
+<a href="https://github.com/ruflas/headset-battery-indicator">Headset Battery Indicator</a> : Shows your headset's battery level using HeadsetControl
 
 ![Vala](https://img.shields.io/badge/-6d5f92?style=flat-square&logo=vala&logoColor=white)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
@@ -148,11 +152,6 @@ Full Example:
 <a href="https://github.com/mbt/alltray"> gtk-sni-tray</a> : Provides a StatusNotifierHost widget written using the gtk+3 bindings for haskell (recommended for taffybar)
 
 ### Panel/Bar Widgets
-
-![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
-![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
-![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://codeberg.org/ItsZariep/gtrunner"> GTRunner</a> : Run shell commands from tray
 
 ![Perl](https://img.shields.io/badge/-39457E?style=flat-square&logo=perl&logoColor=white)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
