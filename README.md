@@ -12,7 +12,7 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 - The programs need to have a last commit of three years or less (with some exceptions if no other alternatives exists)
 
 # Format
-1. If works on wayland (tested on Waybar), displays: ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+1. If works on wayland, displays: ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 2. Language used, example: ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 3. Toolkit used, example: ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
 4. Name
@@ -119,6 +119,8 @@ Full Example:
 <a href="https://github.com/ebruck/radiotray-ng">Radiotray-NG</a> : An Internet radio player for Linux
 
 ### Video
+
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
 ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/tarzasai/StreamCondor">Stream Condor</a> : A lightweight system-tray app that monitors livestreams and opens them in VLC/MPV with [Streamlink](https://streamlink.github.io/).
