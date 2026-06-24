@@ -123,7 +123,7 @@ Full Example:
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
 ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
-<a href="https://github.com/tarzasai/StreamCondor">Stream Condor</a> : A lightweight system-tray app that monitors livestreams and opens them in VLC/MPV with [Streamlink](https://streamlink.github.io/).
+<a href="https://github.com/tarzasai/Lurkiti">Lurkiti</a> : A lightweight system-tray app that monitors livestreams and opens them in VLC/MPV with [Streamlink](https://streamlink.github.io/).
 
 ### Control
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
