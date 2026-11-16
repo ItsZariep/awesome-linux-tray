@@ -111,6 +111,12 @@ Full Example:
 ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/palinek/nm-tray">nm-tray</a> : NetworkManager tray icon -> simple front end
 
+### Updates
+
+![TypeScript](https://img.shields.io/badge/-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
+<a href="https://github.com/lcestou/upkeep"> Upkeep</a> : Tray updater for the apps the package manager misses (AppImages, release binaries, .deb/.rpm files, source builds, self-updating tools), with restore points and rollback
+
 ## Multimedia
 ### Music
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
